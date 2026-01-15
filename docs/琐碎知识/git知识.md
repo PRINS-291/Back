@@ -52,7 +52,7 @@
     所以：我个人的项目：
     1. 合并：master改好了 然后切换到远程分支 合并master；切换到master分支 推送，远程标签就会同步到master最新版
     2. 变基：master改好了 把master变基到远程分支 推送，远程标签就会同步到master最新版
-    两种都行，几个人协作的那种 没试过到时候再说
+    两种都行；几个人协作的那种 没试过到时候再说
    
    ~~~
 > 这是合并：完成C4以后，切换到master分支 将C4合并到master；或者说叫 合并expriment：git merge expriment
